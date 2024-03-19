@@ -1,2 +1,2 @@
 # Git-hub
-Author - Piyush Wagh
+Author - Piyush Wagh (Sanjivani college)
